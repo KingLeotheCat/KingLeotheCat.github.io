@@ -1,11 +1,11 @@
 # Site settings
 author: Lenny Lee
-title: 
+title: My Blog
 header-img: img/home-bg.png
 email: lennylee91@gmail.com
 copyright_name: Lenny Lee
 description: > # this means to ignore newlines until "baseurl:"
-  
+  General code info
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KingLeotheCat
