@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Manipulating Objects"
-date:       2019-12-21 06:25:11 +0000
+date:       2019-12-21 01:25:12 -0500
 permalink:  manipulating_objects
 ---
 
