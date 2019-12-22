@@ -70,7 +70,7 @@ I'm passing in an argument of berry when I call the method from my API module. N
 
 Creating objects that are able to interact with each other is a good way to create efficient and resuable applications. Your code can be easy to understand for humans which opens up opportunities to change parts of your code without messing up the whole program. 
 
-[Click here for the full code](http://https://github.com/KingLeotheCat/test_cli/tree/testing/)
+[Click here for the full code](https://github.com/KingLeotheCat/test_cli/tree/testing)
 
 
 
