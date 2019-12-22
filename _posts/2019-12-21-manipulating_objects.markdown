@@ -73,6 +73,8 @@ Creating objects that are able to interact with each other is a good way to crea
 [Click here for the full code](https://github.com/KingLeotheCat/test_cli/tree/testing)
 
 
+Copy and paste URL if link doesn't work:  github.com/KingLeotheCat/test_cli/tree/testing/  
+
 
 
 
