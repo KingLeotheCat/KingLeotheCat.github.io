@@ -6,7 +6,7 @@ permalink:  sinatra_application
 ---
 
 
-For my Sinatra application project I created a simple to do app that let's users create accounts and add tasks to their list. Once they are finished they can delete the task. Due to the time-restrictions I haven't added additional functionality like a due date or an alarm on that date - but I have the general skeleton if the app implemented. 
+For my Sinatra application project I created a simple to do app that let's users create accounts and add tasks to their list. Once they are finished they can delete the task. Due to the time-restrictions I haven't added additional functionality like a due date or an alarm on that date - but I have the general skeleton of the app implemented. 
 
 
 I was instruction to create at least two models. I implemented a task model which belong to a user, and a user model which has many tasks.
